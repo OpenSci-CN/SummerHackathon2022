@@ -9,6 +9,3 @@
     1. 熟悉或者愿意学习R语言/python；
     2. 熟悉或者愿意学习数据可视化 (tree map & bar chart)；
    
-haha
-
-## hahahahah
