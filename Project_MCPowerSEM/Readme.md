@@ -82,8 +82,6 @@ ana.test = MCPowerSEM(genMod = genMod, genCov = NULL, anaMod = anaMod, REP = 100
 summary(ana.test)
 ```
 
-*
-
 * 一些特别的备注：
 
    * 目前只支持单层单组模型相关的统计检验力分析，分层/分组结构方程模型相关的功能尚需进一步开发
