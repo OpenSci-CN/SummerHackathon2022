@@ -4,6 +4,8 @@
 
 # Session Data files
 .RData
+*/._*
+._*
 
 # User-specific files
 .Ruserdata
@@ -43,7 +45,6 @@ docs/
 
 # Output data
 *.Rda
-*.pdf
 ./*.csv
 ./*.html
 *.docx
